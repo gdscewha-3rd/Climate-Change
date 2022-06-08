@@ -30,16 +30,18 @@
   + 기타 웹사이트를 추천해주는 기능으로 footer 상단부에 위치해 있습니다.
 ### 아티클 화면
 1. article headline
-  +
 2. article image
-  +
 3. article first passage
-  +
+  + 아티클의 한 문단 정도의 분량을 미리보기로 보여주는 기능입니다.
 ### 원인 화면 
 1. video
++ 기후 변화의 원인을 이야기하는 짧은 유튜브 동영상을 autoplay 합니다.
 2. brief 
++ 원인을 짧게 요약하여 본문 상단에 목록과 함께 보여줍니다.
++ 목록을 클릭하면 해당 부분으로 스크롤이 자동으로 이동합니다.
 3. passage 
 ### 솔루션 화면
 1. earth science 
 2. mitigation & adaption
 3. sustainabilty & government resources 
++ 각각의 솔루션에 맞는 passage 가 사진과 함께 제공됩니다. 
