@@ -14,3 +14,4 @@
 ### 디테일 화면
 1. Routes 태그를 이용해 홈 화면의 Link 태그와 연결되는 뷰 입니다. 
   
+깃헙 링크 : https://github.com/borimong/movie-recommend-
